@@ -1,28 +1,8 @@
-{
-  "titles": [
-    "Menu",
-    "Home",
-    "Info",
-    "Privacy Policy"
-  ],
-  "website_urls": [
-    "",
-	  "https://app.apyar.mobi/",
-    "",
-    "file:///android_asset/privacy.html"
-  ],
-  "icon_urls": [
-    "",
-    "https://img.icons8.com/ios-filled/150/000000/home.png",
-    "",
-    "https://img.icons8.com/ios/100/000000/security-shield-green.png"
-  ],
-  "admob_publisher_id": "pub-xxxxxx",
-  "admob_app_id": "ca-app-pub-xxxxx~xxxxxx",
-  "admob_banner_id": "ca-app-pub-xxxxxx/xxxxxxx",
-  "admob_intertestial_id": "ca-app-pub-xxxxxx/xxxxxx",
-  "admob_frequence": "3",
-  "facebook_intertestial_placement": "254532432270164_255077095549031",
-  "facebook_banner_placement": "254532432270164_257742111949196",
-  "appodeal_app_id": "XXXXXX"
-}
+[
+    {
+        "facebook_banner_id": "1178865165827969_1178865569161262",
+        "facebook_interstial_id": "1178865165827969_1178868025827683",
+        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstial_id": "ca-app-pub-3940256099942544/1033173712"
+    }
+]
