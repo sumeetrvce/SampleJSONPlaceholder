@@ -1,6 +1,6 @@
 [
     {
-    "isadmob": true,
+    "isadmob": "true",
     "webview_url":"http://google.com/",
     "facebook_banner_id": "1178865165827969_1178865569161262",
     "facebook_interstial_id":"1178865165827969_1178868025827683",
