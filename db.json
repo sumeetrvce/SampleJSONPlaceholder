@@ -1,22 +1,6 @@
-{
-   "destination_addresses" : [ "GCG2+3M Kolkata, West Bengal, India" ],
-   "origin_addresses" : [ "H8MW+WP Kolkata, West Bengal, India" ],
-   "rows" : [
-      {
-         "elements" : [
-            {
-               "distance" : {
-                  "text" : "11.7 mi",
-                  "value" : 18845
-               },
-               "duration" : {
-                  "text" : "37 mins",
-                  "value" : 2234
-               },
-               "status" : "OK"
-            }
-         ]
-      }
-   ],
-   "status" : "OK"
-}
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  }
+]
