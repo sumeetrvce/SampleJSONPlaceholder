@@ -1,7 +1,22 @@
 {
-  "id": 1,
-  "facebook_banner_id": "1178865165827969_1178865569161262",
-  "facebook_interstial_id": "1178865165827969_1178868025827683",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstial_id": "ca-app-pub-3940256099942544/1033173712"
+   "destination_addresses" : [ "GCG2+3M Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "H8MW+WP Kolkata, West Bengal, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "11.7 mi",
+                  "value" : 18845
+               },
+               "duration" : {
+                  "text" : "37 mins",
+                  "value" : 2234
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
 }
